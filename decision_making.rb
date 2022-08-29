@@ -35,9 +35,16 @@ end
 
 # Questions
 # 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+# If the bear choices (variable)door 1, it prints out a statment to choose the clothing hat (bear clothing can be differnt strings hat or scarf).
 # 2. What variable has a new value assigned to it after the first if statement executes?
+# bear_clothing
 # 3. If you changed the variable door_choice to equal 3, what would the bear_clothing value be?
+# Sarf
 # 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+# Branches are being created.
 # 5. If you changed the variable bear_choice to equal 3, what will be the final outcome be?
+# You run fast into the next room that has snakes.
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will be the final outcome be?
+# It's too small and starts to cry.
 # 7. What is your favorite ending?
+# Where I have a bear best frieind.
